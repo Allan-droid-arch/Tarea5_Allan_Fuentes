@@ -1,0 +1,14 @@
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\bin\Debug\Tarea5_Allan_Fuentes.exe.config
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\bin\Debug\Tarea5_Allan_Fuentes.exe
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\bin\Debug\Tarea5_Allan_Fuentes.pdb
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\obj\Debug\Tarea5_Allan_Fuentes.csprojAssemblyReference.cache
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\obj\Debug\Tarea5_Allan_Fuentes.Formularios.Frmmenu.resources
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\obj\Debug\Tarea5_Allan_Fuentes.Formularios.Frmporcentaje.resources
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\obj\Debug\Tarea5_Allan_Fuentes.Properties.Resources.resources
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\obj\Debug\Tarea5_Allan_Fuentes.csproj.GenerateResource.cache
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\obj\Debug\Tarea5_Allan_Fuentes.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\obj\Debug\Tarea5_Allan_Fuentes.exe
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\obj\Debug\Tarea5_Allan_Fuentes.pdb
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\obj\Debug\Tarea5_Allan_Fuentes.Formularios.FrmCantidaddelitros.resources
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\obj\Debug\Tarea5_Allan_Fuentes.Formularios.FrmNota.resources
+C:\Users\allan\Desktop\III Periodo\Programacion III\Tarea5_Allan_Fuentes\obj\Debug\Tarea5_Allan_Fuentes.Formularios.Frmnotadevarios.resources
